@@ -1,5 +1,5 @@
-<p align="center">
-  <img style="width: 499px;"src="https://cdn.fishwa.re/conspiracy.gif" alt="yap" />
+<p align="center" style="max-width: 480px;">
+  <img src="https://cdn.fishwa.re/conspiracy.gif" alt="yap" />
   <br>
   <img src="https://streak-stats.demolab.com?user=dtcesu&theme=transparent&hide_border=true&v" alt="GitHub Streak" />
   </a>
