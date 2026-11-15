@@ -1,7 +1,7 @@
-<p align="center" style="max-width: 480px;">
-  <img src="https://cdn.fishwa.re/conspiracy.gif" alt="yap" />
+<p align="center">
+  <img style="width: 480px;" src="https://cdn.fishwa.re/conspiracy.gif" alt="yap" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=dtcesu&theme=transparent&hide_border=true&v" alt="GitHub Streak" />
+  <img style="width: 480px;" src="https://streak-stats.demolab.com?user=dtcesu&theme=transparent&hide_border=true&v" alt="GitHub Streak" />
   </a>
   <br>
   https://discord.com/users/406151459885940738
